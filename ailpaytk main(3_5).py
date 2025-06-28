@@ -4,7 +4,7 @@ import sys
 import time
 from datetime import datetime
 from ANTForest3_5 import ANTForest
-#2O25_3.4
+#2O25_3/6（3_5）
 
 # 定义全局变量
 zh = ['shx', 'A', 'b', 'c', 'd', 'zzy']  # A：Administrator
